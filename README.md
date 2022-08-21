@@ -1,0 +1,2 @@
+# Huawei-AI-Algorithm-Race---Intelligent-quality-control-of-lane-rendering-data
+This competition provides the competitors with map rendering data and some of its annotations. The training set consists of a set of images of the lane rendering data and some of the annotations, and the competitors use the training data to train their models. The test set is divided into two test sets, A/B. The test set only provides a set of images of the lane rendering data and the contestants use the model to predict whether there are problems with the test images.
